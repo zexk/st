@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "ProTamSym2x:antialias=true:autohint=true";
+static char *font = "ProTamsyn2x:antialias=true:autohint=true";
 static int borderpx = 1;
 
 /*
