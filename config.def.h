@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "ProTamsyn2x:antialias=true:autohint=true";
+static char *font = "CozetteHiDpi:antialiasing=false:size=26";
 static int borderpx = 1;
 
 /* disable bold, italic and roman fonts globally */
