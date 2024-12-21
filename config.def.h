@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "PixelCode:antialiasing=false:size=26";
+static char *font = "PixelCode:antialiasing=false";
 static int borderpx = 1;
 
 /* disable bold, italic and roman fonts globally */
